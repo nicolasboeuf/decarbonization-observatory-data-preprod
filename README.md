@@ -24,9 +24,9 @@ Make sure that "Commit directly to the master branch" is selected and click on "
 
 ## HTML in texts
 
-In order to add a line-break in texts, use a double tag such as : <br><br>
+In order to add a line-break in texts, use a double tag such as : `<br><br>`
 
-In order to add a link in texts, use a link tag as such (please use single quote in the href attribute) : <a href='http://mylink.com'>Text of the link</a>
+In order to add a link in texts, use a link tag as such (please use single quote in the href attribute) : `<a href='http://mylink.com'>Text of the link</a>`
 
 ## Troubleshooting
 
