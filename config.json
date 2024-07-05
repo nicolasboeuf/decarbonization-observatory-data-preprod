@@ -266,15 +266,15 @@
         },
         "combined-impact": {
             "title": "Combined impact of enhanced or delayed pledges",
-            "subtitle": "Certain emissions can be reduced by more than one pledge. This means that pledges can overlap each other. This panel shows the combined impact of selected pledges. The overlaps are not explicitly shown in this panel but are taken into account.",
-            "legend-short": "Visualize the combined impact of enhanced or delayed scenarios comparing to base",
-            "legend-long": "Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
+            "subtitle": "[Pleaceholder]",
+            "legend-short": "Certain emissions can be reduced by more than one pledge. This means that pledges can overlap each other. This panel shows the combined impact of selected pledges. The overlaps are not explicitly shown in this panel but are taken into account.",
+            "legend-long": "[Placeholder]"
         },
         "individual-impact": {
-            "title": "Combined impact of enhanced or delayed pledges",
-            "subtitle": "Certain emissions can be reduced by more than one pledge. This means that pledges can overlap each other. This panel compare pledges on the same basis by explicitly showing the overlaps among pledges. ",
-            "legend-short": "Certain emissions can be reduced by more than one pledge. This means that pledges can overlap each other. In the first panel, such overlaps are not explicitly shown but are taken into account. In the second panel, where pledges are compared on the same basis, you can directly see the overlaps among pledges.",
-            "legend-long": "Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
+            "title": "Individual impact of enhanced or delayed pledges",
+            "subtitle": "[Placeholder]",
+            "legend-short": "Certain emissions can be reduced by more than one pledge. This means that pledges can overlap each other. This panel compare pledges on the same basis by explicitly showing the overlaps among pledges.",
+            "legend-long": "[Placeholder]"
         },
         "current-emissions": {
             "title": "Emissions under current pledges",
