@@ -12,7 +12,7 @@
         },
         "GMP01": {
             "color": "rgba(184,25,59,1)",
-            "desc": "Global Methane Pledge (GMP) for member countries",
+            "desc": "GMP for member countries",
             "type": "enhanced"
         },
         "GMP02": {
@@ -27,7 +27,7 @@
         },
         "LTS02": {
             "color": "rgba(46,115,179,1)",
-            "desc": "Post-2050 Net-zero countries reach net-zero in 2050.",
+            "desc": "Post-2050 net-zero countries reach net-zero in 2050.",
             "type": "enhanced"
         },
         "LTS03": {
@@ -37,7 +37,7 @@
         },
         "LTS04": {
             "color": "rgba(150,174,237,1)",
-            "desc": "Net-zero Countries delay net-zero by 10 years.",
+            "desc": "Net-zero countries delay net-zero by 10 years.",
             "type": "delayed"
         },
         "LTS05": {
@@ -47,7 +47,7 @@
         },
         "LTS06": {
             "color": "rgba(110,178,223,1)",
-            "desc": "All net zero countries follow CO2 net-zero.",
+            "desc": "All net-zero countries follow CO2 net-zero.",
             "type": "delayed"
         },
         "LUF01": {
