@@ -272,21 +272,21 @@
         },
         "individual-impact": {
             "title": "Comparison of enhanced and delayed national pledges",
-            "subtitle": "This panel compare pledges on the same basis by explicitly showing the overlaps among pledges.",
-            "legend-short": "[placeholder]",
+            "subtitle": "This panel compare pledges on the same basis by explicitly showing the overlaps between pledges.",
+            "legend-short": "[Placeholder]",
             "legend-long": "[Placeholder]"
         },
         "current-emissions": {
-            "title": "Emissions under current pledges",
-            "subtitle": "Visualize global and country-level emissions projections under current pledges",
-            "legend-short": "Global and country-level emissions projections based on country-specific emissions scenarios.",
-            "legend-long": "Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
+            "title": "Historical and future emission pathway with current national pledges",
+            "subtitle": "[Placeholder]",
+            "legend-short": "[Placeholder]",
+            "legend-long": "[Placeholder]"
         },
         "global-temperature": {
-            "title": "Global temperature under current pledges",
-            "subtitle": "Visualize global temperature projections under current pledges",
-            "legend-short": "Global temperature projections based on country-specific emissions scenarios.",
-            "legend-long": "Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
+            "title": "Historical and future temperature pathway with current national pledges",
+            "subtitle": "[Placeholder]",
+            "legend-short": "[Placeholder]",
+            "legend-long": "[Placeholder]"
         }
     }
 }
