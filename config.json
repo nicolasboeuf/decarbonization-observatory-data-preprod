@@ -262,7 +262,10 @@
     ],
     "texts": {
         "intro": {
-            "main": "Countries around the world will revise their national climate targets by the end of 2025 to be consistent with the 1.5 °C warming target of the Paris Agreement. On the other hand, there are challenges in implementing existing targets to national policies, which could lead to a delay in achieving the targets and possibly a rollback of existing national targets.<br><br>On the Decarbonization Observatory, users can explore ways of enhancing and delaying target(s) by selecting pledges globally or for a country. Their impacts on the greenhouse gas emission and global-mean temperature pathways will be presented in different colors. Further details can be found <a href='https://arxiv.org/abs/2312.16326'>here</a>."
+            "main": "Countries around the world will revise their national climate targets by the end of 2025 to be consistent with the 1.5 °C warming target of the Paris Agreement. 
+                    On the other hand, there are challenges in implementing existing targets to national policies, which could lead to a delay in achieving the targets and possibly a rollback of existing national targets.<br><br>
+                    On the Decarbonization Observatory, users can explore ways of enhancing and delaying target(s) by selecting pledges globally or for a country.
+                    Their impacts on the greenhouse gas emission and global-mean temperature pathways will be presented in different colors. Further details can be found <a href='https://arxiv.org/abs/2312.16326'>here</a>."
         },
         "combined-impact": {
             "title": "Impacts of enhanced and delayed national pledges on the emission and temperature pathways",
